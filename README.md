@@ -1,14 +1,10 @@
-# Desktop UFO Cat Pet 🛸🐱
+# ⭐️🍌 Star Banana Cat — Your Interactive Desktop Companion
 
-A floating, interactive desktop companion built with Python and Tkinter.
+Meet your new screen buddy! This lightweight desktop pet is a tiny cat dressed in a cute banana costume with a star emblem. Built with Python and Tkinter, it quietly hovers above all your active windows, explores your monitor, and checks in with friendly reminders to keep your screen time balanced and fun.
 
-## Features
-- Floats above all windows
-- Draggable across your screen
-- Gives occasional hydration & posture reminders
-
-## How to Run
-1. Clone or download this repository.
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
+## ✨ Highlights
+* **Always on Top:** Stays visible over browser windows, code editors, and apps.
+* **Interactive:** Click and drag the Star Banana Cat anywhere on your screen.
+* **Passive Movement:** Randomly wander step-by-step across the bottom edge of your display.
+* **Gentle Health Reminders:** Automatically pops up dialogue bubbles for water, posture, and eye-strain breaks.
+* **Zero Heavy Frameworks:** Minimal CPU and RAM usage.
